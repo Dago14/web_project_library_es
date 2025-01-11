@@ -346,6 +346,7 @@
 .footer__column_content_hours {
   position: absolute;
   right: 300px;
+  margin-left: auto;
 }
 
 .footer__column_content_social {
